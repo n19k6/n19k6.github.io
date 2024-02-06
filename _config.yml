@@ -1,3 +1,15 @@
 theme: minima
-title: BAS's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Elternvertretung an der BAS
+description: bas-2.de
+author: "Raphael Zeiger"
+
+header_pages:
+    - _pages/frontpage.md
+    - _pages/about.md
+
+include:
+    - _pages
+    
+exclude:
+    - .gitignore
+    - README.md

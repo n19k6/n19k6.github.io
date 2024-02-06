@@ -3,6 +3,17 @@ permalink: /
 layout: home
 ---
 
-BAS-2
+Aktuell arbeiten wir an folgenden Themen:
 
-Aktuelle Neuigkeiten
+* Schulentwicklung
+
+* Förderverein
+
+* Informationskultur
+
+* Digitalisierung
+
+* Vandalismus
+
+* Außerschulische Angebote
+

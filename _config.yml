@@ -1,7 +1,8 @@
 theme: minima
 title: Elternvertretung an der BAS
 description: bas-2.de
-author: "Raphael Zeiger"
+#author: "Raphael Zeiger"
+#https://jsanz.github.io/gh-pages-minima-starter/
 
 header_pages:
     - _pages/frontpage.md
